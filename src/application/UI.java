@@ -1,7 +1,5 @@
 package application;
 
-import boradgame.Piece;
-import boradgame.Position;
 import chess.ChessPiece;
 
 public class UI {
